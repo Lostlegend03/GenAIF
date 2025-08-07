@@ -123,4 +123,4 @@ duedesk/
 
 ---
 
-**DueDesk** - Simple. Fast. Reliable payment management.
+
